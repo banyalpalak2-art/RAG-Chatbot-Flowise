@@ -29,6 +29,8 @@ This project showcases a **Power BI dashboard** built for data analysis and busi
 - **DAX (Data Analysis Expressions)**
 - **Data Modeling**
 - **Interactive Visualizations**
+- <img width="755" height="425" alt="Screenshot 2026-04-07 155431" src="https://github.com/user-attachments/assets/288fd188-37e4-4600-a09e-b17b2962084f" />
+
 
 ---
 
